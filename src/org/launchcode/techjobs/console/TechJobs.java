@@ -117,7 +117,7 @@ public class TechJobs {
 
             for(Map.Entry jobEntry : job.entrySet() )
             {
-
+                //System.out.println("*********");
                 System.out.println(jobEntry.getKey() + " : "+ jobEntry.getValue());
             }
 
